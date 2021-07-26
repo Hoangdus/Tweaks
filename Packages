@@ -1,15 +1,15 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
+Package: com.hoangdus.speedster
+Version: 0.0.1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Maintainer: Hoangdus
+Depends: firmware (>13.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Filename: ./debs/com.hoangdus.speedster_0.0.1_iphoneos-arm.deb
 Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://hoangdus.github.io/Tweaks/depictions/?p=com.supermamon.newpackage
+MD5sum: b45c524494f8cfB1345383beb85a57e8
+Description: Faster iOS animation
+Name: speedster
+Author: Hoangdus
+Depiction: https://hoangdus.github.io/Tweaks/depictions/?p=com.hoangdus.speedster
 
 
