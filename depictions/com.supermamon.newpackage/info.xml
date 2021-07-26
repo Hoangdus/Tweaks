@@ -1,6 +1,6 @@
 <package>
 	<id>com.supermamon.fullpackage</id>
-	<name>Full Package</name>
+	<name>Speedster</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -10,30 +10,19 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
+	<shortDescription>Faster iOS animation</shortDescription>
 	<descriptionlist>
-		<description>This is an package will full depictions.</description>
-		<description>It has more description lines.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>Fast as fuck boi.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
-		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
-		</screenshot>		
+			<description>a screenshot of tweak panel in the setting</description>
+			<image>speedster.jpg</image>
+		</screenshot>				
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>feature</change>
+		<change>faster app open and close plus make them bouncy and more</change>
 	</changelog>
 	<links>
 		<link>
