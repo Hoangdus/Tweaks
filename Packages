@@ -1,8 +1,8 @@
 Package: com.hoangdus.speedster
 Name: Speedster
+Version: 0.0.1
 Author: Hoangdus
 Maintainer: Hoangdus
-Version: 0.0.1
 Icon: https://raw.githubusercontent.com/Hoangdus/Speedster/main/Speedster/speedsterprefs/Resources/Speedster%402x.png
 Section: Tweaks
 Depends: firmware (>13.0), mobilesubstrate
