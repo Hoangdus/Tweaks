@@ -1,0 +1,33 @@
+<package>
+	<id>com.hoangdus.boopboopboop</id>
+	<name>BoopBoopBoop</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Custom sound for iOS</shortDescription>
+	<descriptionlist>
+		<description>An Aurelion Sol inspire tweak that customize the sounds that your device makes.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>A screenshot of tweak panel in the setting lol</description>
+			<image>speedster.jpg</image>
+		</screenshot>				
+	</screenshots>
+	<changelog>
+		<change>Passcode, wrong passcode sound, lock sound and more</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

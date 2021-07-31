@@ -14,3 +14,20 @@ SHA1: f71ef6194110b15f5b42509941719d27d0beea7c
 SHA256: 30ab14d6f0b28d8ead15ead08f02659508acae1c817eafb49f4ab828e6e9dc55
 Description: Faster iOS animation
 Depiction: https://hoangdus.github.io/Tweaks/depictions/?p=com.hoangdus.speedster
+
+Package: com.hoangdus.boopboopboop
+Name: BoopBoopBoop
+Version: 0.0.1
+Author: Hoangdus
+Maintainer: Hoangdus
+Icon: https://raw.githubusercontent.com/Hoangdus/BoopBoopBoop/main/BoopBoopBoop/boopboopboopprefs/Resources/BoopBoopBoop%402x.png
+Section: Tweaks
+Depends: firmware (>12.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.hoangdus.boopboopboop_0.0.1_iphoneos-arm.deb
+Size: 440926
+MD5sum: cd34376a290f2c88ffc2899605669996
+SHA1: d786af1d4cbd04bf5c8e6c4f72bdc6409ce80066
+SHA256: 6db646aa7847519568fcc48360753b655fff34c6d895748cad4f70d4ab66819f
+Description: Custom sound for iOS
+Depiction: https://hoangdus.github.io/Tweaks/depictions/?p=com.hoangdus.boopboopboop
