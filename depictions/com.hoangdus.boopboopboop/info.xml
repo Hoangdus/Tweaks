@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Custom sound for iOS</shortDescription>
+	<shortDescription>Custom sound for iOS(iOS 12+)</shortDescription>
 	<descriptionlist>
 		<description>An Aurelion Sol inspire tweak that customize the sounds that your device makes.</description>
 	</descriptionlist>

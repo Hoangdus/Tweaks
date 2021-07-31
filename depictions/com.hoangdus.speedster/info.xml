@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Faster iOS animation</shortDescription>
+	<shortDescription>Faster iOS animation(iOS 13+)</shortDescription>
 	<descriptionlist>
 		<description>Fast as fuck boi.</description>
 	</descriptionlist>
