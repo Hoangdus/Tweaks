@@ -23,9 +23,9 @@ Icon: https://raw.githubusercontent.com/Hoangdus/BoopBoopBoop/main/BoopBoopBoop/
 Section: Tweaks
 Architecture: iphoneos-arm
 Filename: ./debs/com.hoangdus.boopboopboop_0.0.1_iphoneos-arm.deb
-Size: 440926
-MD5sum: cd34376a290f2c88ffc2899605669996
-SHA1: d786af1d4cbd04bf5c8e6c4f72bdc6409ce80066
-SHA256: 6db646aa7847519568fcc48360753b655fff34c6d895748cad4f70d4ab66819f
+Size: 440876
+MD5sum: 063c9c506070e0f253e6af2435c71189
+SHA1: d66957419259c3ad4f30d8f157ac790aed56134e
+SHA256: 9187410f4857efc4d1fa4caaa164689368b78cfd647eab7ab22144c3159f0bf2
 Description: Custom sound for iOS
 Depiction: https://hoangdus.github.io/Tweaks/depictions/?p=com.hoangdus.boopboopboop
