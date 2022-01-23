@@ -16,16 +16,16 @@ Depiction: https://hoangdus.github.io/Tweaks/depictions/?p=com.hoangdus.speedste
 
 Package: com.hoangdus.boopboopboop
 Name: BoopBoopBoop
-Version: 0.0.1
+Version: 0.0.2
 Author: Hoangdus
 Maintainer: Hoangdus
 Icon: https://raw.githubusercontent.com/Hoangdus/BoopBoopBoop/main/BoopBoopBoop/boopboopboopprefs/Resources/BoopBoopBoop%402x.png
 Section: Tweaks
 Architecture: iphoneos-arm
-Filename: ./debs/com.hoangdus.boopboopboop_0.0.1_iphoneos-arm.deb
-Size: 440876
-MD5sum: 063c9c506070e0f253e6af2435c71189
-SHA1: d66957419259c3ad4f30d8f157ac790aed56134e
-SHA256: 9187410f4857efc4d1fa4caaa164689368b78cfd647eab7ab22144c3159f0bf2
+Filename: ./debs/com.hoangdus.boopboopboop_0.0.2_iphoneos-arm.deb
+Size: 441528
+MD5sum: 851df03534e5542fa4c48edd6b8e8649
+SHA1: ddab1bf347539b2f613d56a00b4f415cc8db321e
+SHA256: a647d178d6fbde80dadb1afc899a4db050c987343b17e8af2d76aa914a43614b
 Description: Custom sound for iOS
 Depiction: https://hoangdus.github.io/Tweaks/depictions/?p=com.hoangdus.boopboopboop
