@@ -1,31 +1,31 @@
 Package: com.hoangdus.speedster
 Name: Speedster
-Version: 0.0.1
+Version: 1.0.0
 Author: Hoangdus
 Maintainer: Hoangdus
 Icon: https://raw.githubusercontent.com/Hoangdus/Speedster/main/Speedster/speedsterprefs/Resources/Speedster%402x.png
 Section: Tweaks
 Architecture: iphoneos-arm
-Filename: ./debs/com.hoangdus.speedster_0.0.1_iphoneos-arm.deb
-Size: 36954
-MD5sum: b45c524494f8cfB1345383beb85a57e8
-SHA1: f71ef6194110b15f5b42509941719d27d0beea7c
-SHA256: 30ab14d6f0b28d8ead15ead08f02659508acae1c817eafb49f4ab828e6e9dc55
+Filename: ./debs/com.hoangdus.speedster_1.0.0_iphoneos-arm.deb
+Size: 38590
+MD5sum: 08390398877ab00a9f239cde530a455f
+SHA1: 7233217f4028dfda859072b4d2fea2b9091a4ce9
+SHA256: 48e0144b9a1a26c7b8bd8697c74e026a67c1a2e676ce72b1e8d55343821dba7c
 Description: Faster iOS animation
 Depiction: https://hoangdus.github.io/Tweaks/depictions/?p=com.hoangdus.speedster
 
 Package: com.hoangdus.boopboopboop
 Name: BoopBoopBoop
-Version: 0.0.2
+Version: 0.0.3
 Author: Hoangdus
 Maintainer: Hoangdus
 Icon: https://raw.githubusercontent.com/Hoangdus/BoopBoopBoop/main/BoopBoopBoop/boopboopboopprefs/Resources/BoopBoopBoop%402x.png
 Section: Tweaks
 Architecture: iphoneos-arm
-Filename: ./debs/com.hoangdus.boopboopboop_0.0.2_iphoneos-arm.deb
-Size: 441528
-MD5sum: 851df03534e5542fa4c48edd6b8e8649
-SHA1: ddab1bf347539b2f613d56a00b4f415cc8db321e
-SHA256: a647d178d6fbde80dadb1afc899a4db050c987343b17e8af2d76aa914a43614b
+Filename: ./debs/com.hoangdus.boopboopboop_0.0.3_iphoneos-arm.deb
+Size: 441944
+MD5sum: 62cda885ec0e5819d6aef2d94f91842d
+SHA1: 8e4e8964864f8173b0bcb2d18ccb49c9a1bbef02
+SHA256: 06d68d7f96a6f4f37c41ae8a46931ea929f2340c073abd5e6473433ec2ed1bd1
 Description: Custom sound for iOS
 Depiction: https://hoangdus.github.io/Tweaks/depictions/?p=com.hoangdus.boopboopboop
